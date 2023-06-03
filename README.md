@@ -3,8 +3,6 @@
 This Repo only for testing Vite React, but you so can clone this repo. This design only for testing and attribute in this
 repository maybe have copyright.
 
-This project created by using React Js Framework and Vite.
-For create this page, i using tailwindcss and swiper js.
 
 ## Installation
 
@@ -12,3 +10,10 @@ For create this page, i using tailwindcss and swiper js.
 2. Then `cd viteReact-banyuwangiTourism`
 3. Lets install all library `npm install`
 4. For developing `npm run dev`
+
+## Interface
+
+This project created by using React Js Framework and Vite.
+For create this page, i using tailwindcss and swiper js.
+
+![First Slide about Djawatan](./assets/Slide-1.png)
