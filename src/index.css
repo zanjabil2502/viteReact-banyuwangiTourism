@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+  
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+  
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    @apply w-1
+}
+  
+::-webkit-scrollbar-track {
+    @apply bg-transparent rounded-full
+}
+  
+::-webkit-scrollbar-thumb {
+    @apply bg-gray-900 rounded-full
+}
