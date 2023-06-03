@@ -14,6 +14,12 @@ repository maybe have copyright.
 ## Interface
 
 This project created by using React Js Framework and Vite.
-For create this page, i using tailwindcss and swiper js.
+For create this page, i using tailwindcss and swiper js. Slide of image will autoplay
 
+**FIRST SLIDE**
+<br/>This page telling about Djawatan
 ![First Slide about Djawatan](./assets/Slide-1.png)
+
+**SECOND SLIDE**
+<br/>This page telling about Ijen
+![Second Slide about Djawatan](./assets/Slide-2.png)
